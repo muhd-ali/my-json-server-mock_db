@@ -3,48 +3,58 @@
 		{
 			"id": 1,
 			"title": "Mc Donald's",
-			"logoURL": "https://dog.ceo/api/breeds/image/random",
-			"items_ids": [1, 2, 3, 4]
+			"logoURL": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+			"items_ids": [
+				1
+			]
 		},
 		{
 			"id": 2,
-			"title": "https://baconipsum.com/api/?type=meat-and-filler",
+			"title": "Dog",
 			"logoURL": "https://dog.ceo/api/breeds/image/random",
-			"items_ids": [1, 2, 3, 4]
+			"items_ids": [
+				2
+			]
 		},
 		{
 			"id": 3,
-			"title": "https://baconipsum.com/api/?type=meat-and-filler",
+			"title": "Dog",
 			"logoURL": "https://dog.ceo/api/breeds/image/random",
-			"items_ids": [1, 2, 3, 4]
+			"items_ids": [
+				1,
+				3,
+				4
+			]
 		},
 		{
 			"id": 4,
-			"title": "https://baconipsum.com/api/?type=meat-and-filler",
+			"title": "Dog",
 			"logoURL": "https://dog.ceo/api/breeds/image/random",
-			"items_ids": [1, 2, 3, 4]
+			"items_ids": [
+				1,
+				2
+			]
 		}
 	],
-
 	"items": [
 		{
 			"id": 1,
-			"title": "Mc Donald's",
-			"logoURL": "https://dog.ceo/api/breeds/image/random"
+			"title": "Big Mac",
+			"logoURL": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Big-Mac.jpg"
 		},
 		{
 			"id": 2,
-			"title": "https://baconipsum.com/api/?type=meat-and-filler",
+			"title": "Dog Dog",
 			"logoURL": "https://dog.ceo/api/breeds/image/random"
 		},
 		{
 			"id": 3,
-			"title": "https://baconipsum.com/api/?type=meat-and-filler",
+			"title": "Dog Dog",
 			"logoURL": "https://dog.ceo/api/breeds/image/random"
 		},
 		{
 			"id": 4,
-			"title": "https://baconipsum.com/api/?type=meat-and-filler",
+			"title": "Dog Dog",
 			"logoURL": "https://dog.ceo/api/breeds/image/random"
 		}
 	]
