@@ -1,11 +1,51 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+	"stores": [
+		{
+			"id": 1,
+			"title": "Mc Donald's",
+			"logoURL": "https://dog.ceo/api/breeds/image/random",
+			"items_ids": [1, 2, 3, 4]
+		},
+		{
+			"id": 2,
+			"title": "https://baconipsum.com/api/?type=meat-and-filler",
+			"logoURL": "https://dog.ceo/api/breeds/image/random",
+			"items_ids": [1, 2, 3, 4]
+		},
+		{
+			"id": 3,
+			"title": "https://baconipsum.com/api/?type=meat-and-filler",
+			"logoURL": "https://dog.ceo/api/breeds/image/random",
+			"items_ids": [1, 2, 3, 4]
+		},
+		{
+			"id": 4,
+			"title": "https://baconipsum.com/api/?type=meat-and-filler",
+			"logoURL": "https://dog.ceo/api/breeds/image/random",
+			"items_ids": [1, 2, 3, 4]
+		}
+	],
+
+	"items": [
+		{
+			"id": 1,
+			"title": "Mc Donald's",
+			"logoURL": "https://dog.ceo/api/breeds/image/random"
+		},
+		{
+			"id": 2,
+			"title": "https://baconipsum.com/api/?type=meat-and-filler",
+			"logoURL": "https://dog.ceo/api/breeds/image/random"
+		},
+		{
+			"id": 3,
+			"title": "https://baconipsum.com/api/?type=meat-and-filler",
+			"logoURL": "https://dog.ceo/api/breeds/image/random"
+		},
+		{
+			"id": 4,
+			"title": "https://baconipsum.com/api/?type=meat-and-filler",
+			"logoURL": "https://dog.ceo/api/breeds/image/random"
+		}
+	]
 }
