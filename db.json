@@ -1,7 +1,7 @@
 {
 	"stores": [
 		{
-			"id": 1,
+			"id": "1",
 			"title": "Mc Donald's",
 			"logoURL": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
 			"items_ids": [
@@ -9,7 +9,7 @@
 			]
 		},
 		{
-			"id": 2,
+			"id": "2",
 			"title": "Dog",
 			"logoURL": "https://dog.ceo/api/breeds/image/random",
 			"items_ids": [
@@ -17,7 +17,7 @@
 			]
 		},
 		{
-			"id": 3,
+			"id": "3",
 			"title": "Dog",
 			"logoURL": "https://dog.ceo/api/breeds/image/random",
 			"items_ids": [
@@ -27,7 +27,7 @@
 			]
 		},
 		{
-			"id": 4,
+			"id": "4",
 			"title": "Dog",
 			"logoURL": "https://dog.ceo/api/breeds/image/random",
 			"items_ids": [
@@ -38,22 +38,22 @@
 	],
 	"items": [
 		{
-			"id": 1,
+			"id": "1",
 			"title": "Big Mac",
 			"logoURL": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Big-Mac.jpg"
 		},
 		{
-			"id": 2,
+			"id": "2",
 			"title": "Dog Dog",
 			"logoURL": "https://dog.ceo/api/breeds/image/random"
 		},
 		{
-			"id": 3,
+			"id": "3",
 			"title": "Dog Dog",
 			"logoURL": "https://dog.ceo/api/breeds/image/random"
 		},
 		{
-			"id": 4,
+			"id": "4",
 			"title": "Dog Dog",
 			"logoURL": "https://dog.ceo/api/breeds/image/random"
 		}
