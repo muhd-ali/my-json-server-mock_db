@@ -45,7 +45,11 @@
 				"unit": "unit",
 				"amount": 1.0,
 				"price": 5.5
-			}
+			},
+			"preferencesID": [
+				"1",
+				"2"
+			]
 		},
 		{
 			"id": "2",
@@ -55,7 +59,8 @@
 				"unit": "lb",
 				"amount": 1.8,
 				"price": 15.2
-			}
+			},
+			"preferenceIDs": []
 		},
 		{
 			"id": "3",
@@ -65,7 +70,8 @@
 				"unit": "lb",
 				"amount": 2.2,
 				"price": 28.2
-			}
+			},
+			"preferenceIDs": []
 		},
 		{
 			"id": "4",
@@ -75,7 +81,54 @@
 				"unit": "unit",
 				"amount": 1.0,
 				"price": 5.5
-			}
+			},
+			"preferenceIDs": [
+				"1"
+			]
+		}
+	],
+	"preferences": [
+		{
+			"id": "1",
+			"title": "Bread",
+			"options": [
+				{
+					"name": "Hamburger Bun",
+					"extraCost": 0.0
+				},
+				{
+					"name": "Pretzel Bun",
+					"extraCost": 0.0
+				},
+				{
+					"name": "Tortilla Wrap",
+					"extraCost": 0.0
+				}
+			],
+			"numSelect": 1
+		},
+		{
+			"id": "2",
+			"title": "Patty",
+			"options": [
+				{
+					"name": "Angus Beef Patty",
+					"extraCost": 0.0
+				},
+				{
+					"name": "Grilled Chicken Breast",
+					"extraCost": 0.0
+				},
+				{
+					"name": "Turkey Burger",
+					"extraCost": 0.0
+				},
+				{
+					"name": "Beyond Burger",
+					"extraCost": 2.5
+				}
+			],
+			"numSelect": 1
 		}
 	]
 }
