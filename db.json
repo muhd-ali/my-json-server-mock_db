@@ -40,22 +40,42 @@
 		{
 			"id": "1",
 			"name": "Big Mac",
-			"imageURL": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Big-Mac.jpg"
+			"imageURL": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Big-Mac.jpg",
+			"serving": {
+				"unit": "unit",
+				"amount": 1.0,
+				"price": 5.5
+			}
 		},
 		{
 			"id": "2",
 			"name": "Dog Dog",
-			"imageURL": "https://loremflickr.com/320/240"
+			"imageURL": "https://loremflickr.com/320/240",
+			"serving": {
+				"unit": "lb",
+				"amount": 1.8,
+				"price": 15.2
+			}
 		},
 		{
 			"id": "3",
 			"name": "Dog Dog",
-			"imageURL": "https://loremflickr.com/320/240"
+			"imageURL": "https://loremflickr.com/320/240",
+			"serving": {
+				"unit": "lb",
+				"amount": 2.2,
+				"price": 28.2
+			}
 		},
 		{
 			"id": "4",
 			"name": "Dog Dog",
-			"imageURL": "https://loremflickr.com/320/240"
+			"imageURL": "https://loremflickr.com/320/240",
+			"serving": {
+				"unit": "unit",
+				"amount": 1.0,
+				"price": 5.5
+			}
 		}
 	]
 }
