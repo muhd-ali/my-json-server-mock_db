@@ -46,7 +46,7 @@
 				"amount": 1.0,
 				"price": 5.5
 			},
-			"preferencesID": [
+			"preferencesIds": [
 				"1",
 				"2"
 			]
@@ -60,7 +60,7 @@
 				"amount": 1.8,
 				"price": 15.2
 			},
-			"preferenceIds": []
+			"preferencesIds": []
 		},
 		{
 			"id": "3",
@@ -71,7 +71,7 @@
 				"amount": 2.2,
 				"price": 28.2
 			},
-			"preferenceIds": []
+			"preferencesIds": []
 		},
 		{
 			"id": "4",
@@ -82,7 +82,7 @@
 				"amount": 1.0,
 				"price": 5.5
 			},
-			"preferenceIds": [
+			"preferencesIds": [
 				"1"
 			]
 		}
