@@ -143,15 +143,18 @@
 			"options": [
 				{
 					"name": "Onions",
-					"extraCost": 0.0
+					"extraCost": 0.0,
+					"defaultSelect": true
 				},
 				{
 					"name": "Tomatoes",
-					"extraCost": 0.0
+					"extraCost": 0.0,
+					"defaultSelect": true
 				},
 				{
 					"name": "Pickle",
-					"extraCost": 0.0
+					"extraCost": 0.0,
+					"defaultSelect": true
 				}
 			],
 			"numSelect": {}
