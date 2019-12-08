@@ -144,22 +144,19 @@
 			"name": "Veggies",
 			"options": [
 				{
-					"name": "Onions",
+					"name": "No Onions",
 					"extraCost": 0.0
 				},
 				{
-					"name": "Tomatoes",
+					"name": "No Tomatoes",
 					"extraCost": 0.0
 				},
 				{
-					"name": "Pickle",
+					"name": "No Pickle",
 					"extraCost": 0.0
 				}
 			],
-			"selected": [
-				0,
-				1
-			],
+			"selected": [],
 			"numSelect": {}
 		}
 	],
